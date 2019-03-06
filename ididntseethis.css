@@ -1,0 +1,40 @@
+.uwu {
+    text-align: center;
+    font-family: "Savoye LET";
+    font-size: 60;
+    font-weight: bold;
+    color: white;
+}
+header {
+    font-family: "Euphemia UCAS";
+    font-size: 20;
+    background-color: black;
+    color: white;
+}
+}
+.lilkittyong {
+    font-size: 10;
+    font-family: Monaco;
+    font-weight: initial;
+}
+body {
+    background-color: darkslategray;
+}
+
+div {
+    background-color: midnightblue;
+}
+
+.size {
+    font-family: Copperplate;
+    font-size: 15;
+    font-weight: bold;
+    color: aliceblue;
+}
+.biguwu {
+    font-family: Zapfino;
+}
+
+p {
+    font-family: "Songti TC";
+}
