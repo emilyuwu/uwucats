@@ -21,7 +21,7 @@ body {
     background-color: darkslategray;
 }
 
-div {
+.div {
     background-color: midnightblue;
 }
 
@@ -34,7 +34,8 @@ div {
 .biguwu {
     font-family: Zapfino;
 }
-
-p {
-    font-family: "Songti TC";
+.div2 {
+    color: white;
+    background-color: black;
+    font-family: "Comic Sans MS";
 }
